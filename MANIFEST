@@ -1,0 +1,14 @@
+Changes
+MANIFEST
+Makefile
+Makefile.PL
+Makefile.PL~
+lib/POE/Component/Client/MSN.pm
+lib/POE/Component/Client/MSN.pm~
+lib/POE/Component/Client/MSN/Command.pm
+lib/POE/Component/Client/MSN/Command.pm~
+lib/POE/Filter/MSN.pm
+lib/POE/Filter/MSN.pm~
+sample.pl
+sample.pl~
+t/00_compile.t
